@@ -5,3 +5,8 @@ a scalable and robust app to the client.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixa1243&exclude_repo=task-5-fullstack)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixa1243&show_icons=true)
+<details>
+  <summary>WakaTime</summary>
+  <p>(reload if the image failed to load)</p>
+  <a href="https://wakatime.com/@Mednoob"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mednoob&layout=compact&hide=other,ejs,markdown,git%20config,git,jsx,yaml,json&langs_count=15&custom_title=Mednoob%20Stats" alt="WakaTime Stats"/></a>
+</details>
