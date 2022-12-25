@@ -8,5 +8,5 @@ a scalable and robust app to the client.
 <details>
   <summary>WakaTime</summary>
   <p>(reload if the image failed to load)</p>
-  <a href="https://wakatime.com/@felixa1243"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=felixa1243&layout=compact&hide=other,ejs,markdown,git%20config,git,jsx,yaml,json&langs_count=15&custom_title=Mednoob%20Stats" alt="WakaTime Stats"/></a>
+  <a href="https://wakatime.com/@felixa1243"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=felixa1243&layout=compact&hide=other,ejs,markdown,git%20config,git,yaml,json&langs_count=15&custom_title=Iqbal%20Stats" alt="WakaTime Stats"/></a>
 </details>
