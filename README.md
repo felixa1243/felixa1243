@@ -1,8 +1,8 @@
-<h2 align="left">Hi, Whats Up 👋</h2>
+<h2 align="left">Hi, What's Up 👋</h2>
 
 ###
 
-<p align="left">My Name is Rajiph iqbal ghandi, nice to meet you</p>
+<p align="left">My Name is Rajiph Iqbal Ghandi, nice to meet you</p>
 
 ###
 
@@ -12,7 +12,17 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/felixa1243/felixa1243/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/felixa1243/felixa1243/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
+<!-- 3D Contribution Graph Section -->
+<div align="center">
+  <h3>My 3D Contribution Calendar</h3>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contribution" />
+</div>
 
 ###
 
@@ -41,5 +51,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
-
-###
